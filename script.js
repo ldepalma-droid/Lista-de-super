@@ -1,4 +1,3 @@
-javascript
 let listaDeSuper = [];
 
 listaDeSuper.push("Leche");
